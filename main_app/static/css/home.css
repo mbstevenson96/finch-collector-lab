@@ -20,11 +20,12 @@ main > section {
 }
 
 .logo-container {
-  max-width: 375px;
+  width: 60px;
 }
 
-.cat-container {
-  width: 80%;
+.finch-container {
+  width: 20px;
+  height: 20px;
 }
 
 .login {
