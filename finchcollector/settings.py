@@ -125,7 +125,7 @@ STATIC_URL = 'static/'
 
 LOGIN_URL = 'home'
 
-LOGIN_REDIRECT_URL = 'cats_index'
+LOGIN_REDIRECT_URL = 'finches_index'
 
 LOGOUT_REDIRECT_URL = 'home'
 
