@@ -2,7 +2,6 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
   height: 100%;
 }
 
@@ -21,11 +20,6 @@ main > section {
 
 .logo-container {
   width: 60px;
-}
-
-.finch-container {
-  width: 20px;
-  height: 20px;
 }
 
 .login {
